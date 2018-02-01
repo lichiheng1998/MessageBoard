@@ -1,0 +1,7 @@
+#main_body{
+   display: inline-block;
+}
+#main_body_wrapper{
+    padding-top: 20%;
+    text-align: center;
+}
